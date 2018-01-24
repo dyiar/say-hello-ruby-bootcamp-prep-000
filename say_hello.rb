@@ -1,4 +1,3 @@
 # Build your say_hello method here
 
-def say_hello(name = "Kent Beck")
-  
+def say_hello(name = "Ruby Programmer")
